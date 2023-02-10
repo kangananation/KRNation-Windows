@@ -1,0 +1,18 @@
+Instructions Guide To Install KRNation Software -
+
+1. Go to https://www.kangananation.com or KRNation App Store Site.
+
+2. Download KRNation Latest Version.
+
+3. The File is zipped in .zipor .rar or .msi formats in order to secured for web transfer.
+
+4. Use 7zip or WinRar for extracting the software.
+
+5. Do not delete readme or any KanganaNation installation file untill successful installation.
+
+6. Install Kangana Nation at your preferred location.
+
+7. Kangana Nation Web App has internal cache and offline files for better web surfing experience.
+
+---------------------------------------------------------------------------------------------------
+
