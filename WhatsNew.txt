@@ -1,0 +1,23 @@
+Kangana Nation - What's new in the latest version
+
+
+   Version 3.1.7
+
+   1. Easy Installation Wizard. Path Selection for the software.
+
+   2. If it takes too much time to locate a destination path
+      in extraction dialog folder tree, automatic search performed
+      as user enters the path is cancelled. Lengthy search 
+      in large folders could interfere with user input in this dialog.
+
+      You can still force WinRAR to select the entered destination path
+      in extraction dialog with "Display" button.
+   
+   3. Bugs fixed:
+   
+      a) the keyboard focus was not returned to "Settings/File list"
+         dialog page after selecting the file list font.
+      
+      b) the user interface has been focus page interface.
+
+      c) cache saving bugs fixed.
